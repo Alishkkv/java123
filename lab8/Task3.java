@@ -38,7 +38,7 @@ public class Task3 extends JPanel {
 
     public static void main(String[] args){
         JFrame f=new JFrame("y=-x^2+3x");
-        f.add(new Task3());
+        f.add(new lab10.Task3());
         f.setSize(600,600);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setVisible(true);

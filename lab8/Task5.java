@@ -42,7 +42,7 @@ public class Task5 extends JPanel {
 
         JFrame frame=new JFrame("y = x^5");
 
-        frame.add(new Task5());
+        frame.add(new lab10.Task5());
         frame.setSize(600,600);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);

@@ -42,7 +42,7 @@ public class Task7 extends JPanel {
 
         JFrame frame=new JFrame("y = cos(x-1) + x");
 
-        frame.add(new Task7());
+        frame.add(new lab10.Task7());
         frame.setSize(600,600);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);

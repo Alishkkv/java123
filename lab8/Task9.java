@@ -41,7 +41,7 @@ public class Task9 extends JPanel {
     public static void main(String[] args){
 
         JFrame f=new JFrame("y=(x+3)/(x-2)");
-        f.add(new Task9());
+        f.add(new lab10.Task9());
         f.setSize(600,600);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setVisible(true);

@@ -42,7 +42,7 @@ public class Task4 extends JPanel {
 
         JFrame frame=new JFrame("y = x^3 + x^2 + x");
 
-        frame.add(new Task4());
+        frame.add(new lab10.Task4());
         frame.setSize(600,600);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);

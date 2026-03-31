@@ -42,7 +42,7 @@ public class Task6 extends JPanel {
 
         JFrame frame=new JFrame("y = sin(x)");
 
-        frame.add(new Task6());
+        frame.add(new lab10.Task6());
         frame.setSize(600,600);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);

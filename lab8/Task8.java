@@ -44,7 +44,7 @@ public class Task8 extends JPanel {
 
         JFrame frame=new JFrame("y = 1/x");
 
-        frame.add(new Task8());
+        frame.add(new lab10.Task8());
         frame.setSize(600,600);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
